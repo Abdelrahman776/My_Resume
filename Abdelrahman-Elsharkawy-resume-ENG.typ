@@ -60,7 +60,7 @@
   location: "Austin, TX",
   degrees: (
     ("B.S.", "Software Engineering"),
-    ("Minor", "Cognitive Science"),
+    ("Focus", "Cognitive Science"),
   ),
   gpa: "3.97",
   extra: "",
