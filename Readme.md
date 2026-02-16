@@ -1,4 +1,4 @@
-# Info about the resume in this branch
+# Info about the resume in this Resume branch
 
 1. 
 
