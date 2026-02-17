@@ -96,7 +96,7 @@
 )
 
 #exp(
-  title: link("https://drive.google.com/file/d/1u3WuN0MobOxx0cTz3ZnDOdNgACCHr5jK/view?usp=drive_link")[Competitive Programmer e Problem solving Partecipante
+  title: link("https://drive.google.com/file/d/1u3WuN0MobOxx0cTz3ZnDOdNgACCHr5jK/view?usp=drive_link")[Competitive Programmer e Problem Solving Partecipante
   // #box(image("external-link-icon.svg", width: 0.9em))
   ],
   organization: "International Collegiate Programming Contest (ICPC ECPC)",
