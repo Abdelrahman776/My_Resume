@@ -3,9 +3,9 @@
 ## Each branch contains and  english and italian version of the same resume
 
 
-- [ ]Gemini report for:publish your typst resume +(Deploy + Sync) CICD pipeline for multiple resumes each one curated for different type of jobs, look in Typst resume onetab deploy sync Links
+- [ ] Gemini report for:publish your typst resume +(Deploy + Sync) CICD pipeline for multiple resumes each one curated for different type of jobs, look in Typst resume onetab deploy sync Links
 
-- Pdf preview in html webpage on github pages , CV contain all my history info , resume specific info
+-  [ ] Pdf preview in html webpage on github pages , CV contain all my history info , resume specific info
 - [x] Make new dev cv europass, typst English Italian + gemini tips+ deploy
 - [ ] leave your location to ONLY the general metropolitan area you're in. keep it short and simple
 - [ ]  the general advice I've received from technical recruiters, technical interviewers, and fellow professionals over the years is that an Education section containing university degrees should usually stay at the top of your resume.
