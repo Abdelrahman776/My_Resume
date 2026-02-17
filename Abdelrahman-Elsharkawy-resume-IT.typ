@@ -22,7 +22,7 @@
 #let contacts = (
   [📞#link("tel:" + phonenumber)[#phonenumber]],
   [✉️#link("mailto:" + email)[#email]],
-  [#linkedin-info("https://" + linkedin, url: "https://linkedin.com/in/abdelsha")],
+  [#linkedin-info( linkedin, url: "https://linkedin.com/in/abdelsha")],
   [#github-info("Abdelrahman776", url: "https://github.com/Abdelrahman776")],
 )
 
