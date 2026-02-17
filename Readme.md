@@ -1,16 +1,16 @@
 # Info about the resume in this Resume branch
 
-- Each branch contains and  english and italian version of the same resume
+## Each branch contains and  english and italian version of the same resume
 
 
-- Gemini report for:publish your typst resume +(Deploy + Sync) CICD pipeline for multiple resumes each one curated for different type of jobs, look in Typst resume onetab deploy sync Links
+- [ ]Gemini report for:publish your typst resume +(Deploy + Sync) CICD pipeline for multiple resumes each one curated for different type of jobs, look in Typst resume onetab deploy sync Links
 
 - Pdf preview in html webpage on github pages , CV contain all my history info , resume specific info
 - [x] Make new dev cv europass, typst English Italian + gemini tips+ deploy
 - [ ] leave your location to ONLY the general metropolitan area you're in. keep it short and simple
 - [ ]  the general advice I've received from technical recruiters, technical interviewers, and fellow professionals over the years is that an Education section containing university degrees should usually stay at the top of your resume.
 - [ ] phone number as QR code dont add it in the resume for privacy issues
-- Different titles :Healthcare and biomedical software.ai.data engineer,fullstack AI, software engineer focus option in Education section
+-  [ ] Different titles :Healthcare and biomedical software.ai.data engineer,fullstack AI, software engineer focus option in Education section
 - [x] Just put the month and year in the future that you intend to graduate.
  
 <!-- - The Skills section is where you can give an overarching view of what you're good at and what you know! This section is broken out into categories. In general, here are some breakouts that I've used in the past:
