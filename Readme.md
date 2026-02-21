@@ -1,7 +1,7 @@
 # Info about the resume in this Resume branch
 
 ## Each branch contains and  english and italian version of the same resume
-
+- (resume gemini tips)[https://gemini.google.com/app/6b1f10a7699370ce]
 
 - [ ] Gemini report for:publish your typst resume +(Deploy + Sync) CICD pipeline for multiple resumes each one curated for different type of jobs, look in Typst resume onetab deploy sync Links
 
